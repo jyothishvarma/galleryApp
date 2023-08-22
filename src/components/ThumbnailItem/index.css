@@ -1,0 +1,26 @@
+/* Write your code here. */
+.list-item {
+  height: 70px;
+  width: 70px;
+  list-style-type: none;
+  margin-right: 30px;
+  border: 0;
+  outline: none;
+}
+.button {
+  height: 70px;
+  width: 70px;
+  outline: none;
+  border: 0px;
+  background-color: #ffffff;
+}
+.thumbnail {
+  width: 60px;
+  height: 60px;
+  opacity: 1;
+}
+.active {
+  width: 60px;
+  height: 60px;
+  opacity: 0.5;
+}
